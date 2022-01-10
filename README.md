@@ -38,7 +38,9 @@ object **name** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-#### Rede Sociais!
+#### Rede!
 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][www.linkedin.com/in/luizjunior-jxcoder]
+[website]: https://##/
+[instagram]: https://www.instagram.com/jxcoder_dev/
+[linkedin]: https://www.linkedin.com/in/linkedin.com/in/luizjunior-jxcoder/
+<br>
