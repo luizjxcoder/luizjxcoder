@@ -23,14 +23,14 @@ class Skills extends Desenvolvedor {
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<h3>🌎**Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
+<h3>🌎Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
 realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
 Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software e Pós em Administração de Banco de Dados.
-
+<br></br>
 💡 Habilidades: HTML, CSS, JavaScript, ReactJS.
-
-⚙️ Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Trello, Vercel, Adobe XD, Adobe Photoshop, Adobe Illustrator
-
+<br></br>
+⚙️ Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Trello, Adobe XD, Adobe Photoshop, Adobe Illustrator
+<br></br>
 💬Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. Vai ser um prazer podermos trocar idéias sobre tecnologia, projetos 
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
