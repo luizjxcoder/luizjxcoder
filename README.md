@@ -1,10 +1,11 @@
-### Oie devs 👋
+### Olá extra terrestres e devs👋
 
 Me chamos Luiz Alberto Jr.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 ```html
 object **name** {
