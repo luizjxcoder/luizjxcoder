@@ -41,4 +41,4 @@ object **name** {
 #### Rede Sociais!
 
 📷 [instagram][instagram] **|** 
-👔 [linkedin]"www.linkedin.com/in/luizjunior-jxcoder"
+👔 [linkedin][www.linkedin.com/in/luizjunior-jxcoder]
