@@ -15,7 +15,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Java, JavaScript, HTML5, CSS'];
+  linguagens  = ['Java, JavaScript, HTML5, CSS, SQL'];
   frameworks = ['React, Angular'];
 }
 
@@ -24,7 +24,7 @@ class Skills extends Desenvolvedor {
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <h3>🌎**Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
-realizados em instituições ricas em conteúdo na qula sou muito grato por tudo o que me ensinaram.
+realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
 Formado em Análise e Desenvovimento de Sistemas, cursando Engenharia de Software e Pós em Administração de Banco de Dados.
 
 💡 Habilidades: HTML, CSS, JavaScript, ReactJS.
@@ -55,7 +55,7 @@ e compartilhar conhecimentos poi isso é muito importante em nossa área.</h3>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://##/
+[behance]: https://https://www.behance.net/luizjunior24/
 [instagram]: https://www.instagram.com/jxcoder_dev/
 [linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
