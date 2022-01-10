@@ -27,7 +27,7 @@ class Skills extends Desenvolvedor {
 realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
 Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software e Pós em Administração de Banco de Dados.
 <br></br>
-💡 Habilidades: HTML, CSS, JavaScript, ReactJS.
+💡 Habilidades: HTML, CSS, JavaScript, ReactJS, SQL.
 <br></br>
 ⚙️ Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Trello, Adobe XD, Adobe Photoshop, Adobe Illustrator
 <br></br>
