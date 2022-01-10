@@ -39,8 +39,8 @@ object **name** {
 </a>
 
 [website]: https://##/
-[instagram]: https://www.instagram.com/jxcoder.dev/
-[linkedin]: https://www.linkedin.com/in/linkedin.com/in/luizjunior-jxcoder/
+[instagram]: https://www.instagram.com/jxcoder_dev/
+[linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
 
 #### Rede Sociais!
