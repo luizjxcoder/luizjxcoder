@@ -37,3 +37,8 @@ object **name** {
 <a href="https://github.com/luizjxcoder">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
+
+#### Rede Sociais!
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
