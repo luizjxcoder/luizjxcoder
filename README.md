@@ -55,13 +55,13 @@ e compartilhar conhecimentos poi isso é muito importante em nossa área.</h3>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[behance]: https://https://www.behance.net/luizjunior24/
+[behance]: https://www.behance.net/luizjunior24/
 [instagram]: https://www.instagram.com/jxcoder_dev/
 [linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+🏡 [website][behance] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
