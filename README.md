@@ -62,6 +62,6 @@ e compartilhar conhecimentos poi isso é muito importante em nossa área.</h3>
 
 #### Rede Sociais!
 
-🏡 [website][behance] **|** 
+🏡 [perfil behance][behance] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
