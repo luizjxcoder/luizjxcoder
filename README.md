@@ -1,4 +1,4 @@
-### Olá extra terrestres e devs👋
+### Olá Devs, terráqueos e extra terrestres👋
 
 <h2>Me chamo Luiz Alberto Jr.</h2>
 
