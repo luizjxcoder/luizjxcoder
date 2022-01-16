@@ -10,7 +10,7 @@ import Desenvolvedor from 'JXCoder';
 class SobreMim extends Desenvolvedor {
   nome     = 'Luiz Alberto S.Junior';
   area    = 'Analista de Sistemas';
-  trabalho  = 'Novelis';
+  trabalho  = 'JXCoder Development';
   local = 'SP-Brasil';
 }
 
