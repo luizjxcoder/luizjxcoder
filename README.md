@@ -26,6 +26,8 @@ class Skills extends Desenvolvedor {
 <h3>🌎Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
 realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
 Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software e Pós em Administração de Banco de Dados.
+Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
+e...onde a paixão por tecnologia me levar!!!
 <br></br>
 💡 Habilidades: HTML, CSS, JavaScript, Java,  ReactJS, SQL.
 <br></br>
