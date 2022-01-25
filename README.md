@@ -29,7 +29,7 @@ Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Softwa
 Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
 e...onde a paixão por tecnologia me levar!!!
 <br></br>
-💡 Habilidades: HTML5, CSS3, JavaScript, Java,  ReactJS, SQL, Banco de Dados.
+💡 Habilidades: HTML5, CSS3, JavaScript, Java,  ReactJS, Bootstrap, SQL, Banco de Dados.
 <br></br>
 ⚙️ Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Adobe XD, Trello, PostgreSQL, Adobe Photoshop, Adobe Illustrator...
 <br></br>
