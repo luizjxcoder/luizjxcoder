@@ -62,8 +62,8 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 [linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
 
-#### Rede Sociais!
+#### <h3>Rede Sociais</h3>
 
-🏡 [perfil behance][behance] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" align="center" width="38px" heght="34px"/> [Behance]    **|** 
+<img src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" align="center" width="38px" heght="34px"/> [Instagram]    **|** 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" width="38px" heght="34px"/>[Linkedin]
