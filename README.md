@@ -61,7 +61,6 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
  
 ##
-  [Gmail]: <a href="mailto:luiz.jun19@gmail.com">
   <img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1646348562~hmac=7a35873f54d41a4f3378c1a04d867960" align="center" style="max-width: 100%;" height="25px"/>
 <a href="mailto:luiz.jun19@gmail.com">Me envie um email
  
