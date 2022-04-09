@@ -62,7 +62,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
  
 ##
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-<a href="mailto:luiz.jun19@gmail.com">Me envie um email
+<a href="mailto:jxcoder.dev@gmail.com">Me envie um email
 
  
 
@@ -73,6 +73,6 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 #### <h3>Rede Sociais</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" align="center" width="38px" heght="34px"/> [Behance]    **|** 
-<img src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" align="center" width="38px" heght="34px"/> [Instagram]    **|** 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" width="38px" heght="34px"/>[Linkedin]
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) [Behance]    **|** 
+![Instagram](https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[Instagram]    **|** 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[Linkedin]
