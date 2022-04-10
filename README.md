@@ -1,8 +1,10 @@
+<h1 align="center">Olá Devs, terráqueos e extra terrestres👋<h1/>
+
 <div align="center">
 <img width="800" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/GUERREIRA%20NEVE.jpg" />
 </div>
 
-### Olá Devs, terráqueos e extra terrestres👋
+
 
 <h2>Me chamo Luiz Alberto Jr.</h2>
 
