@@ -1,4 +1,6 @@
-<img align="center" width="600" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/GUERREIRA%20NEVE.jpg" />
+<div align="center">
+<img width="800" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/GUERREIRA%20NEVE.jpg" />
+</div>
 
 ### Olá Devs, terráqueos e extra terrestres👋
 
