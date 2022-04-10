@@ -1,4 +1,4 @@
-<h1 align="center">Olá Devs, terráqueos e extra terrestres👋<h1/>
+<h1 align="center">Olá Devs, terráqueos e Extraterrestres:vulcan_salute:<h1/>
 
 <div align="center">
 <img width="800" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/GUERREIRA%20NEVE.jpg" />
@@ -6,7 +6,7 @@
 
 
 
-<h2>Me chamo Luiz Alberto Jr.</h2>
+<h1>Me chamo Luiz Alberto Jr.</h1>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -78,7 +78,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 [linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
 
-#### <h3>Rede Sociais</h3>
+## Rede Sociais
 
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) [Behance]    **|** 
 ![Instagram](https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [Instagram]    **|** 
