@@ -21,7 +21,7 @@ class Skills extends Desenvolvedor {
 
 ```
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/carbon.png">
 
 <h3>🌎Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
 realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
