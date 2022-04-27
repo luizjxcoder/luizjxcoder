@@ -22,18 +22,18 @@ class Skills extends Desenvolvedor {
 ```
 ##
 <img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/carbon.png"/>
-
-<h3>🌎Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
+<h3>
+<img height="50" src="https://img.icons8.com/nolan/344/head-profile.png">Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e prática adquiridas em cursos 
 realizados em instituições ricas em conteúdo na qual sou muito grato por tudo o que me ensinaram.
 Formado em Análise e Desenvolvimento de Sistemas e Pós em Administração de Banco de Dados e no momento cursando Especialização em Desenvolvimento Web Full Stack pela Puc de Minas.
 Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
 e...onde a paixão por tecnologia me levar!!!
 <br></br>
-💡 Habilidades: HTML5, CSS3, JavaScript, Java, PHP, ReactJS, Bootstrap, SQL-Banco de Dados.
+<img height="50" src="https://img.icons8.com/nolan/344/development-skill.png">Habilidades: HTML5, CSS3, JavaScript, Java, PHP, ReactJS, Bootstrap, SQL-Banco de Dados.
 <br></br>
-⚙️ Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Adobe XD, Trello, PostgreSQL, Microsoft SQL Server, Adobe Photoshop, Adobe Illustrator...
+<img height="50" src="https://img.icons8.com/nolan/344/internship.png">Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Adobe XD, Trello, PostgreSQL, Microsoft SQL Server, Adobe Photoshop, Adobe Illustrator...
 <br></br>
-💬Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. Vai ser um prazer podermos trocar idéias sobre tecnologia, projetos 
+<img height="50" src="https://img.icons8.com/nolan/344/speech-bubble-with-dots.png">Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. Vai ser um prazer podermos trocar idéias sobre tecnologia, projetos 
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 ##
@@ -61,7 +61,8 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 
 #
-:email:<h2>contact me</h2>
+<code><img height="30" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
+<h2>contact me</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 <a href="mailto:jxcoder.dev@gmail.com">Me envie um email
