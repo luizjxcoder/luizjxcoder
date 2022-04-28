@@ -53,12 +53,12 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/luizjxcoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjxcoder&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjxcoder&theme=discord_old_blurple&hide_langs_below=1" />
 </a>
 
 
 <a href="https://github.com/luizjxcoder">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27" alt="**SEU NOME** github stats"/>
 
 #
 <code><img height="30" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
