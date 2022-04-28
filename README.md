@@ -16,7 +16,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['Java, JavaScript, PHP, HTML5, CSS3, SQL'];
-  frameworks = ['React, Angular'];
+  frameworks = ['JQuery, Bootstrap, React, Angular'];
 }
 
 ```
