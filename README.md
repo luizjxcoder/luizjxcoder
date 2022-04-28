@@ -61,7 +61,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27" alt="**SEU NOME** github stats"/>
 
 #
-<code><img height="30" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
+<code><img height="50" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
 <h2>contact me</h2>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
