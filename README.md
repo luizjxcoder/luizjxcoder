@@ -29,7 +29,7 @@ Formado em Análise e Desenvolvimento de Sistemas e Pós em Administração de B
 Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
 e...onde a paixão por tecnologia me levar!!!
 <br></br>
-<img height="50" src="https://img.icons8.com/nolan/344/development-skill.png">Habilidades: HTML5, CSS3, JavaScript, Java, PHP, ReactJS, Bootstrap, SQL-Banco de Dados.
+<img height="50" src="https://img.icons8.com/nolan/344/development-skill.png">Habilidades: HTML5, CSS3, JavaScript, Java, PHP, ReactJS, Bootstrap, SQL.
 <br></br>
 <img height="50" src="https://img.icons8.com/nolan/344/internship.png">Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Adobe XD, Trello, PostgreSQL, Microsoft SQL Server, Adobe Photoshop, Adobe Illustrator...
 <br></br>
@@ -43,6 +43,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 <code><img height="50" src="https://img.icons8.com/nolan/344/git.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/linux--v2.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/console.png"></code>
+<code><img height="50" src="https://img.icons8.com/nolan/344/sql.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/php.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/html-5.png"></code>
