@@ -44,11 +44,11 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 <code><img height="50" src="https://img.icons8.com/nolan/344/linux--v2.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/console.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"></code>
+<code><img height="50" src="https://img.icons8.com/nolan/344/php.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/html-5.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/css-filetype.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/javascript.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/react-native.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/php.png"></code>
 
 ## **GitHub Estatísticas**
 
