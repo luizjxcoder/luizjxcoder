@@ -40,16 +40,18 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/cardferram.png">
 
 <code><img height="50" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/git.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/linux--v2.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/console.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/sql.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/php.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/html-5.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/css-filetype.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/javascript.png"></code>
-<code><img height="50" src="https://img.icons8.com/nolan/344/react-native.png"></code>
+<code><img height="50" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"></code>
+<code><img height="50" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="50" src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white"></code>
 
 ## **GitHub Estatísticas**
 
