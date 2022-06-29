@@ -37,7 +37,7 @@ e...onde a paixão por tecnologia me levar!!!
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 ##
-<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/carbon%20(2).png">
+<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/cardferram.png">
 
 <code><img height="50" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png"></code>
 <code><img height="50" src="https://img.icons8.com/nolan/344/git.png"></code>
