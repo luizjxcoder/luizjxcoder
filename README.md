@@ -75,8 +75,8 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 [linkedin]: https://linkedin.com/in/luizjunior-jxcoder/
 <br>
 
-<img src="https://https://github.com/luizjxcoder/luizjxcoder/blob/main/cardrede.png"/>
+<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/cardrede.png"/>
 
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) [Behance]    **|** 
-![Instagram](https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [Instagram]    **|** 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin]
+![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)    **|** 
+![Instagram](https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)    **|** 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
