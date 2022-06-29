@@ -65,21 +65,12 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 <code><img height="50" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
 <h2>contact me</h2>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-<a href="mailto:jxcoder.dev@gmail.com"><h1>Me envie um email</h1>
-
-
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/cardrede.png"/>
 
 <br>
 
-<a href="https://www.behance.net/luizjunior24/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a> 
-    **|** 
-    
-<a href="https://www.instagram.com/jxcoder_dev/" target="_blank"><img src="https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> 
-    **|**
-    
- <a href="https://linkedin.com/in/luizjunior-jxcoder/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-    **|**
+<a href="https://www.behance.net/luizjunior24/" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a> **|** <a href="https://www.instagram.com/jxcoder_dev/" target="_blank"><img src="https://img.shields.io/badge/<insta>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>  **|**  <a href="https://linkedin.com/in/luizjunior-jxcoder/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  **|**  <a href="mailto:jxcoder.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  
+  ![Snake animation](https://github.com/luizjxcoder/luizjxcoder/blob/output/github-contribution-grid-snake.svg)
   
  
