@@ -24,7 +24,7 @@ class Skills extends Desenvolvedor {
 <img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/cardmim.png"/>
 <h3>
 <img height="50" src="https://img.icons8.com/nolan/344/head-profile.png">Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e práticas adquiridas com 
-formação em Instituições ricas em conteúdo, na qual sou muito grato por tudo o que me ensinaram. E também com trabalhos como Freelancer.
+formação em Instituições ricas em conteúdo, na qual sou muito grato por tudo o que me ensinaram. E faço trabalhos também como Freelancer. Sou
 Formado em Análise e Desenvolvimento de Sistemas e Pós em Administração de Banco de Dados e no momento cursando Especialização em Desenvolvimento Web Full Stack pela Puc de Minas.
 Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
 e...onde a paixão por tecnologia me levar!!!
