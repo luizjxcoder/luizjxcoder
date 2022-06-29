@@ -37,7 +37,7 @@ e...onde a paixão por tecnologia me levar!!!
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 ##
-<img src="[https://github.com/luizjxcoder/luizjxcoder/blob/main/cardferram.png](https://github.com/luizjxcoder/luizjxcoder/blob/main/ferr.png)">
+<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/ferr.png">
 
 <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"></code>
 <code><img height="40" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
