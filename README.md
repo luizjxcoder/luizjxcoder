@@ -21,7 +21,7 @@ class Skills extends Desenvolvedor {
 
 ```
 #
-<img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/mim.png"/>
+<img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/sobre.png"/>
 <h3>
 <img height="50" src="https://img.icons8.com/nolan/344/head-profile.png">Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e práticas adquiridas com 
 formação em Instituições ricas em conteúdo, na qual sou muito grato por tudo o que me ensinaram. E faço trabalhos também como Freelancer. Sou
@@ -37,7 +37,7 @@ e...onde a paixão por tecnologia me levar!!!
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 ##
-<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/ferramentas.png">
+<img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/lingferr.png">
 
 <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"></code>
 <code><img height="40" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
