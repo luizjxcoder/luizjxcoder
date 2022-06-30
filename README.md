@@ -20,7 +20,7 @@ class Skills extends Desenvolvedor {
 }
 
 ```
-#
+## **Profile**
 <img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/sobre.png"/>
 <h3>
 <img height="50" src="https://img.icons8.com/nolan/344/head-profile.png">Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e práticas adquiridas com 
@@ -35,7 +35,8 @@ atuando como Freelancer e...onde a paixão por tecnologia me levar!!!
 <img height="50" src="https://img.icons8.com/nolan/344/speech-bubble-with-dots.png">Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. Vai ser um prazer podermos trocar idéias sobre tecnologia, projetos 
 e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
-##
+## **Hard Skills**
+
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/lingferr.png">
 
 <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"></code>
@@ -62,7 +63,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/luizjxcoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjxcoder&theme=discord_old_blurple&hide_langs_below=1" />
@@ -74,7 +75,7 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 
 #
 <code><img height="50" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
-<h2>contact me</h2>
+<h2>Contact me</h2>
   
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/rede01.png"/>
 
