@@ -2,7 +2,7 @@
 
 Me chamo Luiz Alberto Jr.</h1>
 
-<img align="right" width="290" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/logo1000.png"/>
+<img align="right" width="290" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/LOGO%20OFICIAL.png"/>
 
 ```html
 import Desenvolvedor from 'JXCoder';
