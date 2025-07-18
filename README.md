@@ -2,7 +2,7 @@
 
 Me chamo Luiz Alberto Jr.</h1>
 
-<img align="right" width="470" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/jxclogo.png"/>
+<img align="right" width="450" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/jxclogo.png"/>
 
 ```html
 import React from 'react';
