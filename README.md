@@ -5,20 +5,27 @@ Me chamo Luiz Alberto Jr.</h1>
 <img align="right" width="290" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/LOGO%20OFICIAL.png"/>
 
 ```html
-import Desenvolvedor from 'JXCoder';
+import React from 'react';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Luiz Alberto S.Junior';
-  area    = 'Analista de Sistemas';
-  trabalho  = 'JXCoder Development';
-  local = 'SP-Brasil';
-}
-
-class Skills extends Desenvolvedor {
-  linguagens  = ['Java, JavaScript, PHP, HTML5, CSS3, SQL'];
-  frameworks = ['JQuery, Bootstrap, React, Angular'];
-}
-
+const SobreMim = () => {
+  const dados = {
+    nome: 'Luiz Alberto S. Junior',
+    area: 'Analista de Sistemas Full Stack - UX/UI Designer',
+    trabalho: 'JXCoder Development',
+    local: 'SP - Brasil'
+  };
+  return (
+    <section>
+      <h2>Sobre Mim</h2>
+      <ul>
+        <li><strong>Nome:</strong> {dados.nome}</li>
+        <li><strong>Área:</strong> {dados.area}</li>
+        <li><strong>Trabalho:</strong> {dados.trabalho}</li>
+        <li><strong>Local:</strong> {dados.local}</li>
+      </ul>
+    </section>
+  );
+};
 ```
 ## **Profile**
 <img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/sobre.png"/>
