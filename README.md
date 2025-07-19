@@ -27,20 +27,50 @@ const SobreMim = () => {
   );
 };
 ```
-## **Profile**
-<img alt="about" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/sobre.png"/>
-<h3>
-<img height="50" src="https://img.icons8.com/nolan/344/head-profile.png">Sou Dev Front-End e UX/UI Designer, com habilidades teóricas e práticas adquiridas com 
-formação em Instituições ricas em conteúdo, na qual sou muito grato por tudo o que me ensinaram. Sou Formado em Análise e Desenvolvimento de Sistemas e Pós em Administração de Banco de Dados e no momento cursando Especialização em Desenvolvimento Web Full Stack pela Puc de Minas.
-Realizo pequenos projetos Web usando HTML5, CSS3 e Javascript, criação de protótipos aplicando UX & UI Design, trabalhos com edição e criação de conteúdo dígital
-atuando como Freelancer e...onde a paixão por tecnologia me levar!!!
-<br></br>
-<img height="50" src="https://img.icons8.com/nolan/344/development-skill.png">Habilidades: HTML5, CSS3, JavaScript, Java, PHP, ReactJS, Bootstrap, SQL.
-<br></br>
-<img height="50" src="https://img.icons8.com/nolan/344/internship.png">Ferramentas:  Git e GitHub, VSCode, Sublime Text, Figma, Adobe XD, Trello, PostgreSQL, Microsoft SQL Server, Adobe Photoshop, Adobe Illustrator...
-<br></br>
-<img height="50" src="https://img.icons8.com/nolan/344/speech-bubble-with-dots.png">Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem. Vai ser um prazer podermos trocar idéias sobre tecnologia, projetos 
-e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
+<!-- Banner (Opcional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D0FF&height=200&section=header&text=Olá,%20Aqui%20o%20%20%20está%20%20um%20%20pouco%20%20sobre%20%20mim%20%20!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Banner">
+</p>
+
+## 👨‍💻 **Minha tragetória**
+
+Sou Desenvolvedor **Front-End** e **UX/UI Designer**, com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Administração de Banco de Dados**. Atualmente, curso uma **Especialização em Desenvolvimento Web Full Stack** pela PUC Minas.
+
+Tenho experiência em criação de interfaces intuitivas, desenvolvimento de aplicações web e design de protótipos. Trabalho também como **freelancer**, editando e criando conteúdo digital com foco em usabilidade, acessibilidade e performance.
+
+---
+## **Tecnologias & Ferramentas**
+
+### 🧠 Linguagens & Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" />
+</p>
+
+### 🛠️ Ferramentas & IDEs
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" />
+</p>
 
 ## **Hard Skills**
 
@@ -80,8 +110,6 @@ e compartilhar conhecimentos pois isso é muito importante em nossa área.</h3>
 <a href="https://github.com/luizjxcoder">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27" alt="**SEU NOME** github stats"/>
 
-#
-<code><img height="50" src="https://img.icons8.com/nolan/344/send-mass-email.png"></code>
 <h2>Contact me</h2>
   
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/rede01.png"/>
