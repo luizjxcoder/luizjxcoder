@@ -51,6 +51,10 @@ Tenho experiência em criação de interfaces intuitivas, desenvolvimento de apl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJs" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwindcss" width="40" />
+  
 </p>
 
 ### 🗄️ Banco de Dados
@@ -59,6 +63,7 @@ Tenho experiência em criação de interfaces intuitivas, desenvolvimento de apl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="40" />
 </p>
 
 ### 🛠️ Ferramentas & IDEs
@@ -68,8 +73,10 @@ Tenho experiência em criação de interfaces intuitivas, desenvolvimento de apl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="WordPress" width="40"/>
+          
 </p>
 
 ## **Hard Skills**
