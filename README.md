@@ -76,6 +76,8 @@ Tenho experiência em criação de interfaces intuitivas, desenvolvimento de apl
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" alt="WordPress" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Dark.svg" alt="Sublime" width="40"/>
           
 </p>
 
