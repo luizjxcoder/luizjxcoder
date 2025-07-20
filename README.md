@@ -34,7 +34,7 @@ const SobreMim = () => {
 
 ## 👨‍💻 **Minha tragetória**
 
-Sou Desenvolvedor **Front-End** e **UX/UI Designer**, com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Administração de Banco de Dados**. Atualmente, curso uma **Especialização em Desenvolvimento Web Full Stack** pela PUC Minas.
+Sou Desenvolvedor **Front-End** e **UX/UI Designer**, com formação em **Análise e Desenvolvimento de Sistemas** com Pós-Graduação em **Administração de Banco de Dados**, Pós Graduação em  **Especialização em Desenvolvimento Web Full Stack** e MBA em **Data Science & Analytics**.
 
 Tenho experiência em criação de interfaces intuitivas, desenvolvimento de aplicações web e design de protótipos. Trabalho também como **freelancer**, editando e criando conteúdo digital com foco em usabilidade, acessibilidade e performance.
 
