@@ -1,4 +1,4 @@
-<h1 align="center">Olá Devs, Terráqueos e Extraterrestres:vulcan_salute:
+<h1 align="center">Olá Devs, Terráqueos e Extraterrestres:
 
 Me chamo Luiz Alberto Jr.</h1>
 
