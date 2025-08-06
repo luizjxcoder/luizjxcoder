@@ -10,7 +10,7 @@ import React from 'react';
 const SobreMim = () => {
   const dados = {
     nome: 'Luiz Alberto S. Junior',
-    area: 'Analista de Sistemas Full Stack - UX/UI Designer',
+    area: 'Dessenvolvimento Full Stack - UX/UI Designer',
     trabalho: 'JXCoder Development',
     local: 'SP - Brasil'
   };
