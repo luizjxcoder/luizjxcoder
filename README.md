@@ -2,7 +2,7 @@
 
 Me chamo Luiz Alberto Silva.</h1>
 
-<img align="right" width="510" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/image%20(3).png"/>
+<img align="right" width="450" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/image%20(3).png"/>
 
 ```html
 import React from 'react';
