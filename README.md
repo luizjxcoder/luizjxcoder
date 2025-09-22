@@ -1,6 +1,6 @@
 <h1 align="center">Hello Devs, Terráqueos e Extraterrestres:
 
-Me chamo Luiz Alberto Jr.</h1>
+Me chamo Luiz Alberto Silva.</h1>
 
 <img align="right" width="410" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/jxclogo.png"/>
 
@@ -9,7 +9,7 @@ import React from 'react';
 
 const SobreMim = () => {
   const dados = {
-    nome: 'Luiz Alberto S. Junior',
+    nome: 'Luiz Alberto Silva',
     area: 'Desenvolvimento Full Stack - UX/UI Designer',
     trabalho: 'JXCoder Development',
     local: 'SP - Brasil'
