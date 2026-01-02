@@ -112,12 +112,19 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 ## **GitHub Statistics**
 
 <a href="https://github.com/luizjxcoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjxcoder&theme=discord_old_blurple&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjxcoder&theme=discord_old_blurple&hide_langs_below=1"/>
 </a>
 
 
 <a href="https://github.com/luizjxcoder">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27" alt="**SEU NOME** github stats"/>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27"
+    alt="Luiz Alberto Silva GitHub Stats"
+  />
+</a>
+
+
 
 <h2>Contact me</h2>
   
