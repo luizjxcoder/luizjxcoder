@@ -121,6 +121,8 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&line_height=27"
     alt="Luiz Alberto Silva GitHub Stats"
+    https://github-readme-stats.vercel.app/api?username=luizjxcoder&show_icons=true&theme=discord_old_blurple&cache_seconds=1800
+
   />
 </a>
 
