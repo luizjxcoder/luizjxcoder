@@ -110,21 +110,18 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 
 
 ## **GitHub Statistics**
-
-<!--- stats & Trophy (start) -->
-<p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-   <img width=490 src="https://github-readme-stats-one-bice.vercel.app/api?username=luizjxcoder&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@luizjxcoders github-readme-stats"/>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjxcoder&theme=dark" alt="Profile Details" />
+   <img width=490 src="https://github-readme-stats-one-bice.vercel.app/api?username=luizjxcoder&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@luizjxcoders github-readme-stats"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjxcoder&theme=tokyonight" alt="Profile Details" />
   <br></br>
   <img width=490 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=luizjxcoder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luizjxcoder&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center" width=340 src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=luizjxcoder&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
