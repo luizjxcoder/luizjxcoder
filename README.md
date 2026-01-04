@@ -32,11 +32,14 @@ const SobreMim = () => {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D0FF&height=300&section=header&text=🛡️%20Aqui%20%20%20%20está%20%20um%20%20pouco%20%20sobre%20%20mim%20%20!🎩&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Banner">
 </p>
 
-## 👨‍💻 **Minha tragetória**
 
+## 👨‍💻 **Minha tragetória**
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3l1NTlwbmFubzJsc243ZGxxODQxcXEycjVub3Y2cGs1Njd0MzI3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="150"/>
 Sou **Desenvolvedor Full Stack** e **UX/UI Designer**, com formação em **Análise e Desenvolvimento de Sistemas** com Pós-Graduação em **Administração de Banco de Dados**, Pós Graduação em **Desenvolvimento Web Full Stack**, MBA em **Data Science & Analytics** e **Especialização em UX/UI Avançado**.
 
 Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces intuitivas, desenvolvimento de aplicações web e design de protótipos. Trabalho também como **freelancer**, editando e criando conteúdo digital com foco em usabilidade, acessibilidade e performance.
+
+
 
 ---
 ## **Tecnologias & Ferramentas**
