@@ -37,7 +37,7 @@ const SobreMim = () => {
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3l1NTlwbmFubzJsc243ZGxxODQxcXEycjVub3Y2cGs1Njd0MzI3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="150"/>
 Sou Desenvolvedor Full Stack e UX/UI Designer, com formação em Análise e Desenvolvimento de Sistemas com Pós-Graduação em Administração de Banco de Dados, Pós Graduação em Desenvolvimento Web Full Stack, MBA em Data Science & Analytics e Especialização em UX/UI Avançado.
 
-Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces intuitivas, desenvolvimento de aplicações web e design de protótipos. Edição e criação de conteúdo digital com ferreamentas profissionais de edição. Habilidades com manipulação de IA Generativa. 
+Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces intuitivas, desenvolvimento de aplicações web e design de protótipos. Edição e criação de conteúdo digital com ferramentas profissionais de edição e habilidades com manipulação de IA Generativa no processo de criação artistica. 
 
 
 
