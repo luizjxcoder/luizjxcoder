@@ -84,7 +84,7 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 ## **Hard Skills**
 
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/lingferr.png">
-
+<p align="center">
 <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"></code>
 <code><img height="40" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
