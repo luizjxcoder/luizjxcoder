@@ -43,7 +43,7 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 
 ### <p align="center">🧠 Linguagens & Frameworks
 
-<p align="center">>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
@@ -59,16 +59,16 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 
 ### <p align="center">🗄️ Banco de Dados
 
-<p align="center">>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="40" />
 </p>
 
-### 🛠️ Ferramentas & IDEs
+### <p align="center">🛠️ Ferramentas & IDEs
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" />
@@ -131,8 +131,8 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 <h2>Contact me</h2>
   
 <img src="https://github.com/luizjxcoder/luizjxcoder/blob/main/rede01.png"/>
-
-<a href="https://www.behance.net/luizjunior24/" target="_blank"><img height="40" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a> **|** <a href="https://www.instagram.com/jxcoder_dev/" target="_blank"><img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>  **|**  <a href="https://linkedin.com/in/luizjunior-jxcoder/" target="_blank"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  **|**  <a href="mailto:jxcoder.dev@gmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<p align="center">
+<a href="https://www.behance.net/luizjunior24/" target="_blank"><img height="40" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a> | <a href="https://www.instagram.com/jxcoder_dev/" target="_blank"><img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> | <a href="https://linkedin.com/in/luizjunior-jxcoder/" target="_blank"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="mailto:jxcoder.dev@gmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
  
   
