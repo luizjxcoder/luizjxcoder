@@ -110,7 +110,8 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 <code><img height="40" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></code>
 <code><img height="40" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></code>
 
-## 🚀 Project Portfolio
+
+## **🚀 Project Portfolio**
 
 <div align="center">
 
