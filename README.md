@@ -119,16 +119,16 @@ Tenho foco em Desenvolvimento Front-End, prática em criação de interfaces int
 
 | 📁 Total Projects | 🔒 Private | 🌎 Public |
 |-------------------|------------|-----------|
-| **65**            | **20**     | **45**    |
+| **76**            | **31**     | **45**    |
 
 
 ---
 
 ### 🧠 Behind the Numbers
 
-- 🔒 **Private Projects (20)** → Arquiteturas internas, testes, MVPs e soluções estratégicas  
+- 🔒 **Private Projects (31)** → Arquiteturas internas, testes, MVPs e soluções estratégicas  
 - 🌎 **Public Projects (45)** → Projetos open-source, estudos e entregas públicas  
-- 📁 **65 projetos no total** → Evolução contínua e construção ativa
+- 📁 **76 projetos no total** → Evolução contínua e construção ativa
 
 > Building. Improving. Shipping. 🚀
 
