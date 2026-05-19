@@ -29,7 +29,7 @@ const SobreMim = () => {
 ```
 <!-- Banner (Opcional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D0FF&height=300&section=header&text=🛡️%20Aqui%20%20%20%20está%20%20um%20%20pouco%20%20sobre%20%20mim%20%20!🎩&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D0FF&height=300&section=header&text=🛡️%20Sobre%20%20%20%20%20%20mim%20%20!🎩&fontColor=ffffff&fontSize=45&animation=fadeIn" alt="Banner">
 </p>
 
 
