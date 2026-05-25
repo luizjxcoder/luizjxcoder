@@ -1,6 +1,6 @@
-<h1 align="center">Hello Devs, Terráqueos e Extraterrestres:
-
-Me chamo Luiz Alberto Silva.</h1>
+<h1 align="center"> Hello World 🌎 (and the rest of the universe 👽)
+  
+I'm Luiz Alberto Silva.</h1>
 
 <img align="right" width="400" src="https://github.com/luizjxcoder/luizjxcoder/blob/main/logo-jxcoder.png"/>
 
